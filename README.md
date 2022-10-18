@@ -4,7 +4,7 @@ You can see in the github pages with Design System in Storybook https://steffany
 
   ## Components Figma
 
-    ![image](https://user-images.githubusercontent.com/59336147/196331567-6f0e728c-b25b-44ee-b34e-5be1551e47c1.png)
+    ![image](![image](https://user-images.githubusercontent.com/59336147/196331906-92f0c89b-ad10-4163-aea0-b48417afe79b.png))
     
   ## Only Components and variations
   
@@ -15,3 +15,8 @@ You can see in the github pages with Design System in Storybook https://steffany
   ![image](https://user-images.githubusercontent.com/59336147/196331094-ce59738d-c425-4113-82a8-6c185963eeb8.png)
 
 
+# You can run with de following commands
+  
+  ## Run the program with Storybook
+    yarn storybook || npm run storybook
+    

@@ -1,6 +1,13 @@
-# project-figma-to-code-ignite-lab
+# Figma to Code React : Ignite Lab 3
 
 You can see in the github pages with Design System in Storybook https://steffany-martins.github.io/project-figma-to-code-ignite-lab/.
+
+  ## Technologies used
+    1. React
+    2. Tailwind CSS
+    3. Radix (to customize checkbox component actions)
+    4. Storybook and addons (A11y accessible test)
+    5. Figma to prototype components and design systems.
 
   ## Components Figma
 

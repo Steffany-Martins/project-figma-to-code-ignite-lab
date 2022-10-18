@@ -4,7 +4,7 @@ You can see in the github pages with Design System in Storybook https://steffany
 
   ## Components Figma
 
-    ![image](![image](https://user-images.githubusercontent.com/59336147/196331906-92f0c89b-ad10-4163-aea0-b48417afe79b.png))
+   ![image](https://user-images.githubusercontent.com/59336147/196331906-92f0c89b-ad10-4163-aea0-b48417afe79b.png)
     
   ## Only Components and variations
   

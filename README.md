@@ -8,6 +8,9 @@ You can see in the github pages with Design System in Storybook https://steffany
     3. Radix (to customize checkbox component actions)
     4. Storybook and addons (A11y accessible test)
     5. Figma to prototype components and design systems.
+    6. MSW (MOCK SERVICE WORK) => request by service worker.
+    7. CI/CD principles with github pages develop.
+    
 
   ## Components Figma
 
@@ -23,7 +26,15 @@ You can see in the github pages with Design System in Storybook https://steffany
 
 
 # You can run with de following commands
-  
+  ## To run a beautiful program with all depencies:
+    `yarn` || `npm run`
   ## Run the program with Storybook
-    yarn storybook || npm run storybook
+    `yarn storybook` || `npm run storybook`
     
+  ## To test program with jest in storybook by interactions
+    `yarn test-storybook`
+    
+  ## To run app run 
+   `yarn dev`
+    
+   

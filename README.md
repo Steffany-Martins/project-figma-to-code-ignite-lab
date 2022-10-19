@@ -1,8 +1,10 @@
-# Figma to Code React : Ignite Lab 3
+### Figma to Code React : Ignite Lab 3
+
+
 
 You can see in the github pages with Design System in Storybook https://steffany-martins.github.io/project-figma-to-code-ignite-lab/.
 
-  ## Technologies used
+  ## 🔎 Technologies used
     1. React
     2. Tailwind CSS
     3. Radix (to customize checkbox component actions)
@@ -16,25 +18,26 @@ You can see in the github pages with Design System in Storybook https://steffany
 
    ![image](https://user-images.githubusercontent.com/59336147/196331906-92f0c89b-ad10-4163-aea0-b48417afe79b.png)
     
-  ## Only Components and variations
+  # Only Components and variations
   
    ![image](https://user-images.githubusercontent.com/59336147/196331326-f6b18167-310a-48b2-8f51-4d98e377115a.png)
 
-  ## Design System
+  # Design System
   
   ![image](https://user-images.githubusercontent.com/59336147/196331094-ce59738d-c425-4113-82a8-6c185963eeb8.png)
 
 
-# You can run with de following commands
-  ## To run a beautiful program with all depencies:
+## 🚅 You can run with de following commands to a Quick Start
+
+  # To run a beautiful program with all depencies:
     `yarn` || `npm run`
-  ## Run the program with Storybook
+  # Run the program with Storybook
     `yarn storybook` || `npm run storybook`
     
-  ## To test program with jest in storybook by interactions
+  # To test program with jest in storybook by interactions
     `yarn test-storybook`
     
-  ## To run app run 
+  # To run app
    `yarn dev`
     
    
